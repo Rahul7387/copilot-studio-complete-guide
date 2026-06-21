@@ -1,0 +1,13 @@
+question,expected_answer,category,priority
+How do I reset my password?,Visit aka.ms/sspr and follow the self-service password reset steps using your work email and MFA.,password,high
+My account is locked out,Go to aka.ms/sspr to unlock your account via self-service password reset.,password,high
+How do I connect to the VPN?,Download GlobalProtect from itportal.contoso.com/vpn and enter vpn.contoso.com as the server.,vpn,high
+What is the VPN server address?,The VPN server address is vpn.contoso.com,vpn,medium
+How do I raise an IT ticket?,Tell me your issue and I will create a ticket with your description and urgency.,ticket,high
+What is the SLA for a High urgency ticket?,High urgency: first response within 1 hour and resolution within 4 hours.,sla,medium
+My laptop screen is broken,Raise a High urgency IT ticket and a technician will arrange repair or replacement.,hardware,medium
+What is the password policy?,Passwords must be at least 12 characters including uppercase letters numbers and special characters.,policy,low
+I think I received a phishing email,This is a security incident. Escalating to the security team immediately. Do not click any links.,security,high
+How long does hardware replacement take?,Hardware replacement takes 3-5 business days after ticket approval.,hardware,low
+What software can I install myself?,You can install any software in the approved catalog at itportal.contoso.com/catalog,software,low
+How many days of leave do I have?,That is an HR question. Please contact the HR team or check the HR portal for leave information.,out-of-scope,medium
